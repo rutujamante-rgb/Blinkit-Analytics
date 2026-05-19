@@ -1,5 +1,6 @@
 # Blinkit-Analytics
 Blinkit Sales Analytics Dashboard – Grocery Sales & Outlet Performance Analysis
+
 Project Title / Headline
 
 Blinkit Sales Analytics Dashboard | Grocery Sales, Outlet Performance & Customer Insights Using Power BI
